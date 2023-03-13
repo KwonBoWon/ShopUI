@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 1901151281114219551}
   m_Layer: 5
   m_Name: RoseKnife
-  m_TagString: Untagged
+  m_TagString: M
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -374,9 +374,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 471270527226530920, guid: 57af908493c9b5542afcbaad5d08622b, type: 3}
-        m_TargetAssemblyTypeName: ShopUI, Assembly-CSharp
-        m_MethodName: Buy
+      - m_Target: {fileID: 1527487227671622682, guid: 775da12b1c11e7745b824eb8ef929df6, type: 3}
+        m_TargetAssemblyTypeName: Buy, Assembly-CSharp
+        m_MethodName: BuyRoseKnife
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
